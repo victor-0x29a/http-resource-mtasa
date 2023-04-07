@@ -13,5 +13,12 @@
 
 ## Como adicionar mais comandos?
 
-###### Para criar novos comandos vai na pasta 
+###### Para criar novos comandos vai na pasta do `resource` e entre na pasta `config`, lá vai haver uma table contendo as funções, para adicionar uma nova função, basta colocar uma vírgula no fim da última função e adicionar o nome dela entre `[]` em seguida agregue uma função no nome referenciado dentro dos colchetes recebendo como argumento principal os três pontos (`...`) para referenciar que é uma table, segue o exemplo:
+
+```lua
+  end, ["nova function"] = function (...)
+    args = {...}
+    ...
+  end
+```
 
