@@ -1,0 +1,5 @@
+<meta>
+    <script src="indexS.lua" type="server"/>
+    <script src=".config/commands.lua" type="server"/>
+    <export function="handleRequest" type="server" http="true"/>
+</meta>
