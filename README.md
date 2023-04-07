@@ -47,5 +47,5 @@
 <br/>
 
 ## Venha fazer parte do B.R.R
-[<img alt="alt_text" width="40px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/3XeQBzNMHz)
+[<img alt="alt_text" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/3XeQBzNMHz)
 
