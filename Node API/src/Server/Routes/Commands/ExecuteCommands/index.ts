@@ -1,5 +1,5 @@
 import express from "express";
-import { commands } from "../../../../.config/commands";
+import { commands } from "../../../../config/commands";
 import { Client } from "mtasa";
 import dotenv from "dotenv";
 dotenv.config({ path: "./.env" });

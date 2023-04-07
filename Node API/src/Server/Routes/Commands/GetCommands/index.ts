@@ -1,5 +1,5 @@
 import express from "express";
-import { commands } from "../../../../.config/commands";
+import { commands } from "../../../../config/commands";
 export default function getCommands(
   req: express.Request,
   res: express.Response
